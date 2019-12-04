@@ -1,4 +1,4 @@
-<!-- This small calculator was made by Glori4n(https://glori4n.com) as a small exercise for begginer students -->
+<!-- This snippet was made by Glori4n(https://glori4n.com). -->
 
 
 <!-- Form to receive the desired numbers -->
@@ -65,7 +65,10 @@
     }
 ?>
 
-<!-- // This little snippet picks up the value chosen so as to keep it selected even after the submission. -->
+<br><br>
+<footer style="text-align:center">This snippet was made by Glori4n (<a href="https://glori4n.com" target="new">https://glori4n.com</a>)</footer>
+
+<!-- This snippet picks up the value chosen so as to keep it selected even after the submission. -->
 <script type="text/javascript">
   document.getElementById('operator').value = "<?php echo $_POST['operator'];?>";
 </script>
