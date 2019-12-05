@@ -66,7 +66,7 @@
 ?>
 
 <br><br>
-<footer style="text-align:center">This snippet was made by Glori4n (<a href="https://glori4n.com" target="new">https://glori4n.com</a>)</footer>
+<footer style="text-align:center">This snippet was made by © Glori4n (<a href="https://glori4n.com" target="new">https://glori4n.com</a>)</footer>
 
 <!-- This snippet picks up the value chosen so as to keep it selected even after the submission. -->
 <script type="text/javascript">
